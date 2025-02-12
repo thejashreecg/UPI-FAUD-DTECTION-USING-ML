@@ -22,3 +22,6 @@ python manage.py
 You will get URL 
 Paste it in Browser
 
+Even If You Not Understanding go Through the Steps Provided in Uploaded video after installing the software
+Note:-If You facing any Problem in Installation Problem, Make Sure You Delete the Previous Versions And Reinstall it again.
+
